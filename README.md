@@ -1,2 +1,2 @@
-# BR-lego_sorting_machine
-open source project building a lego block sorting machine
+# BavarianRobotics - LEGO sorting machine
+This is my first open source project. The project includes all information to build a lego block sorting machine.
